@@ -1,0 +1,12 @@
+#pdf_content {
+    width: 1920px !important;
+    height: 1080px !important;
+}
+
+#pdf_content .pace {
+    display: none !important;
+}
+
+#pdf_content section#resume {
+    padding-top: 25px !important;
+}
